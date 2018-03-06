@@ -1,0 +1,1702 @@
+---------------------------------------------------------------
+[ 2018-03-06T11:47:00+08:00 ] 127.0.0.1 GET /
+[ info ] fast.local.com/ [运行时间：0.062255s][吞吐率：16.06req/s] [内存消耗：2,491.98kb] [文件加载：72]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000134s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003805s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520306466',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] E:\web\fastadmin\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000420s ]
+[ info ] [ LANG ] E:\web\fastadmin\public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ E:\web\fastadmin\application\index\controller\Index.php ]
+[ info ] [ VIEW ] E:\web\fastadmin\public/../application/index\view\index\index.html [ array (
+  0 => 'user',
+  1 => 'site',
+  2 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T11:59:47+08:00 ] 127.0.0.1 GET /
+[ info ] fast.local.com/ [运行时间：0.048561s][吞吐率：20.59req/s] [内存消耗：2,499.65kb] [文件加载：72]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004629s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] E:\web\fastadmin\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000363s ]
+[ info ] [ LANG ] E:\web\fastadmin\public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ E:\web\fastadmin\application\index\controller\Index.php ]
+[ info ] [ VIEW ] E:\web\fastadmin\public/../application/index\view\index\index.html [ array (
+  0 => 'user',
+  1 => 'site',
+  2 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T11:59:47+08:00 ] 127.0.0.1 GET /js/jquery-1.12.4.min.js
+[ info ] fast.local.com/js/jquery-1.12.4.min.js [运行时间：0.033433s][吞吐率：29.91req/s] [内存消耗：1,592.45kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000055s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.012138s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'js',
+    1 => 'jquery-1.12.4.min.js',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T11:59:47+08:00 ] 127.0.0.1 GET /css/main_mobile.css
+[ info ] fast.local.com/css/main_mobile.css [运行时间：0.036583s][吞吐率：27.34req/s] [内存消耗：1,592.46kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000054s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.016171s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'css',
+    1 => 'main_mobile.css',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T11:59:47+08:00 ] 127.0.0.1 GET /css/bootstrap.min.css
+[ info ] fast.local.com/css/bootstrap.min.css [运行时间：0.042774s][吞吐率：23.38req/s] [内存消耗：1,592.47kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.026150s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'css',
+    1 => 'bootstrap.min.css',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T11:59:47+08:00 ] 127.0.0.1 GET /css/ie10-viewport-bug-workaround.css
+[ info ] fast.local.com/css/ie10-viewport-bug-workaround.css [运行时间：0.053487s][吞吐率：18.70req/s] [内存消耗：1,592.63kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000051s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003862s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'css',
+    1 => 'ie10-viewport-bug-workaround.css',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T11:59:47+08:00 ] 127.0.0.1 GET /picture/1496983985_1.jpg
+[ info ] fast.local.com/picture/1496983985_1.jpg [运行时间：0.031910s][吞吐率：31.34req/s] [内存消耗：1,592.56kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004829s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'picture',
+    1 => '1496983985_1.jpg',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T11:59:47+08:00 ] 127.0.0.1 GET /picture/home_about_1.jpg
+[ info ] fast.local.com/picture/home_about_1.jpg [运行时间：0.028866s][吞吐率：34.64req/s] [内存消耗：1,592.56kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.012336s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'picture',
+    1 => 'home_about_1.jpg',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T11:59:47+08:00 ] 127.0.0.1 GET /picture/icon_wealth_1.png
+[ info ] fast.local.com/picture/icon_wealth_1.png [运行时间：0.026848s][吞吐率：37.25req/s] [内存消耗：1,592.57kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000171s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.007081s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'picture',
+    1 => 'icon_wealth_1.png',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T11:59:47+08:00 ] 127.0.0.1 GET /js/bootstrap.min.js
+[ info ] fast.local.com/js/bootstrap.min.js [运行时间：0.036058s][吞吐率：27.73req/s] [内存消耗：1,592.42kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000022s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.012738s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'js',
+    1 => 'bootstrap.min.js',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T11:59:47+08:00 ] 127.0.0.1 GET /js/ie10-viewport-bug-workaround.js
+[ info ] fast.local.com/js/ie10-viewport-bug-workaround.js [运行时间：0.040420s][吞吐率：24.74req/s] [内存消耗：1,592.58kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.007033s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'js',
+    1 => 'ie10-viewport-bug-workaround.js',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T11:59:47+08:00 ] 127.0.0.1 GET /picture/home_history_pic_1.jpg
+[ info ] fast.local.com/picture/home_history_pic_1.jpg [运行时间：0.027083s][吞吐率：36.92req/s] [内存消耗：1,592.57kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.006155s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'picture',
+    1 => 'home_history_pic_1.jpg',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T11:59:47+08:00 ] 127.0.0.1 GET /picture/icon_culture_1.png
+[ info ] fast.local.com/picture/icon_culture_1.png [运行时间：0.028835s][吞吐率：34.68req/s] [内存消耗：1,592.57kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.011335s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'picture',
+    1 => 'icon_culture_1.png',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T11:59:47+08:00 ] 127.0.0.1 GET /picture/app_qrcode_1.png
+[ info ] fast.local.com/picture/app_qrcode_1.png [运行时间：0.031082s][吞吐率：32.17req/s] [内存消耗：1,592.56kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.013504s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'picture',
+    1 => 'app_qrcode_1.png',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T11:59:47+08:00 ] 127.0.0.1 GET /public/uploads/image/events/1515031545.jpg
+[ info ] fast.local.com/public/uploads/image/events/1515031545.jpg [运行时间：0.020242s][吞吐率：49.40req/s] [内存消耗：1,593.22kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000021s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003644s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'uploads',
+    2 => 'image',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+  'events' => '1515031545.jpg',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T11:59:47+08:00 ] 127.0.0.1 GET /picture/icon_life_1.png
+[ info ] fast.local.com/picture/icon_life_1.png [运行时间：0.083598s][吞吐率：11.96req/s] [内存消耗：1,592.54kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000058s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004986s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'picture',
+    1 => 'icon_life_1.png',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T11:59:47+08:00 ] 127.0.0.1 GET /images/home_team_1_1.jpg
+[ info ] fast.local.com/images/home_team_1_1.jpg [运行时间：0.020443s][吞吐率：48.92req/s] [内存消耗：1,592.56kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004250s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'images',
+    1 => 'home_team_1_1.jpg',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T11:59:47+08:00 ] 127.0.0.1 GET /public/uploads/image/events/1514340691.jpg
+[ info ] fast.local.com/public/uploads/image/events/1514340691.jpg [运行时间：0.027799s][吞吐率：35.97req/s] [内存消耗：1,593.22kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.010060s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'uploads',
+    2 => 'image',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+  'events' => '1514340691.jpg',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T11:59:47+08:00 ] 127.0.0.1 GET /public/uploads/image/events/1512439919.jpg
+[ info ] fast.local.com/public/uploads/image/events/1512439919.jpg [运行时间：0.024661s][吞吐率：40.55req/s] [内存消耗：1,593.22kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.008216s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'uploads',
+    2 => 'image',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+  'events' => '1512439919.jpg',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T11:59:47+08:00 ] 127.0.0.1 GET /public/uploads/image/events/1512961382.jpg
+[ info ] fast.local.com/public/uploads/image/events/1512961382.jpg [运行时间：0.026274s][吞吐率：38.06req/s] [内存消耗：1,593.22kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.009718s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'uploads',
+    2 => 'image',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+  'events' => '1512961382.jpg',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T11:59:47+08:00 ] 127.0.0.1 GET /images/home_team_3_1.jpg
+[ info ] fast.local.com/images/home_team_3_1.jpg [运行时间：0.024468s][吞吐率：40.87req/s] [内存消耗：1,592.56kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.005806s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'images',
+    1 => 'home_team_3_1.jpg',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T11:59:47+08:00 ] 127.0.0.1 GET /images/icon_contact_email_1.png
+[ info ] fast.local.com/images/icon_contact_email_1.png [运行时间：0.025726s][吞吐率：38.87req/s] [内存消耗：1,592.61kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.009571s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'images',
+    1 => 'icon_contact_email_1.png',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T11:59:47+08:00 ] 127.0.0.1 GET /images/icon_contact_app_1.png
+[ info ] fast.local.com/images/icon_contact_app_1.png [运行时间：0.020950s][吞吐率：47.73req/s] [内存消耗：1,592.57kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004831s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'images',
+    1 => 'icon_contact_app_1.png',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T11:59:47+08:00 ] 127.0.0.1 GET /images/icon_contact_address_1.png
+[ info ] fast.local.com/images/icon_contact_address_1.png [运行时间：0.027956s][吞吐率：35.77req/s] [内存消耗：1,592.67kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.009785s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'images',
+    1 => 'icon_contact_address_1.png',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T11:59:47+08:00 ] 127.0.0.1 GET /public/uploads/image/events/1512442388.jpg
+[ info ] fast.local.com/public/uploads/image/events/1512442388.jpg [运行时间：0.078605s][吞吐率：12.72req/s] [内存消耗：1,593.22kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.014572s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'uploads',
+    2 => 'image',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+  'events' => '1512442388.jpg',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T11:59:47+08:00 ] 127.0.0.1 GET /images/icon_footer_email_1.png
+[ info ] fast.local.com/images/icon_footer_email_1.png [运行时间：0.020248s][吞吐率：49.39req/s] [内存消耗：1,592.57kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000024s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003384s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'images',
+    1 => 'icon_footer_email_1.png',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T11:59:47+08:00 ] 127.0.0.1 GET /images/icon_footer_address_1.png
+[ info ] fast.local.com/images/icon_footer_address_1.png [运行时间：0.019726s][吞吐率：50.69req/s] [内存消耗：1,592.63kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000022s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003597s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'images',
+    1 => 'icon_footer_address_1.png',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T11:59:47+08:00 ] 127.0.0.1 GET /js/ie10-viewport-bug-workaround.js
+[ info ] fast.local.com/js/ie10-viewport-bug-workaround.js [运行时间：0.022867s][吞吐率：43.73req/s] [内存消耗：1,592.58kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003200s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'js',
+    1 => 'ie10-viewport-bug-workaround.js',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T12:06:14+08:00 ] 127.0.0.1 GET /
+[ info ] fast.local.com/ [运行时间：0.050630s][吞吐率：19.75req/s] [内存消耗：2,499.70kb] [文件加载：72]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000021s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.007386s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] E:\web\fastadmin\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000537s ]
+[ info ] [ LANG ] E:\web\fastadmin\public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ E:\web\fastadmin\application\index\controller\Index.php ]
+[ info ] [ VIEW ] E:\web\fastadmin\public/../application/index\view\index\index.html [ array (
+  0 => 'user',
+  1 => 'site',
+  2 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T12:06:14+08:00 ] 127.0.0.1 GET /picture/1496983985_1.jpg
+[ info ] fast.local.com/picture/1496983985_1.jpg [运行时间：0.022173s][吞吐率：45.10req/s] [内存消耗：1,592.62kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000025s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004361s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'picture',
+    1 => '1496983985_1.jpg',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T12:06:14+08:00 ] 127.0.0.1 GET /public/uploads/image/events/1514340691.jpg
+[ info ] fast.local.com/public/uploads/image/events/1514340691.jpg [运行时间：0.038536s][吞吐率：25.95req/s] [内存消耗：1,593.27kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.018075s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'uploads',
+    2 => 'image',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+  'events' => '1514340691.jpg',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T12:06:14+08:00 ] 127.0.0.1 GET /picture/app_qrcode_1.png
+[ info ] fast.local.com/picture/app_qrcode_1.png [运行时间：0.039217s][吞吐率：25.50req/s] [内存消耗：1,592.62kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000020s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.018614s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'picture',
+    1 => 'app_qrcode_1.png',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T12:06:14+08:00 ] 127.0.0.1 GET /public/uploads/image/events/1512442388.jpg
+[ info ] fast.local.com/public/uploads/image/events/1512442388.jpg [运行时间：0.024604s][吞吐率：40.64req/s] [内存消耗：1,593.27kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.005315s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'uploads',
+    2 => 'image',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+  'events' => '1512442388.jpg',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T12:06:14+08:00 ] 127.0.0.1 GET /public/uploads/image/events/1512961382.jpg
+[ info ] fast.local.com/public/uploads/image/events/1512961382.jpg [运行时间：0.030522s][吞吐率：32.76req/s] [内存消耗：1,593.27kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.010708s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'uploads',
+    2 => 'image',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+  'events' => '1512961382.jpg',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T12:06:14+08:00 ] 127.0.0.1 GET /public/uploads/image/events/1512439919.jpg
+[ info ] fast.local.com/public/uploads/image/events/1512439919.jpg [运行时间：0.023133s][吞吐率：43.23req/s] [内存消耗：1,593.27kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004045s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'uploads',
+    2 => 'image',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+  'events' => '1512439919.jpg',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T12:06:14+08:00 ] 127.0.0.1 GET /public/uploads/image/events/1515031545.jpg
+[ info ] fast.local.com/public/uploads/image/events/1515031545.jpg [运行时间：0.047828s][吞吐率：20.91req/s] [内存消耗：1,593.27kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000022s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003335s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'uploads',
+    2 => 'image',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+  'events' => '1515031545.jpg',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T12:06:26+08:00 ] 127.0.0.1 GET /
+[ info ] fast.local.com/ [运行时间：0.042612s][吞吐率：23.47req/s] [内存消耗：2,499.70kb] [文件加载：72]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003205s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] E:\web\fastadmin\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000449s ]
+[ info ] [ LANG ] E:\web\fastadmin\public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ E:\web\fastadmin\application\index\controller\Index.php ]
+[ info ] [ VIEW ] E:\web\fastadmin\public/../application/index\view\index\index.html [ array (
+  0 => 'user',
+  1 => 'site',
+  2 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T12:06:26+08:00 ] 127.0.0.1 GET /picture/1496983985_1.jpg
+[ info ] fast.local.com/picture/1496983985_1.jpg [运行时间：0.021256s][吞吐率：47.05req/s] [内存消耗：1,592.62kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003819s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'picture',
+    1 => '1496983985_1.jpg',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T12:06:26+08:00 ] 127.0.0.1 GET /public/uploads/image/events/1515031545.jpg
+[ info ] fast.local.com/public/uploads/image/events/1515031545.jpg [运行时间：0.036244s][吞吐率：27.59req/s] [内存消耗：1,593.27kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.019172s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'uploads',
+    2 => 'image',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+  'events' => '1515031545.jpg',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T12:06:26+08:00 ] 127.0.0.1 GET /picture/app_qrcode_1.png
+[ info ] fast.local.com/picture/app_qrcode_1.png [运行时间：0.044229s][吞吐率：22.61req/s] [内存消耗：1,592.62kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000020s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.027036s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'picture',
+    1 => 'app_qrcode_1.png',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T12:06:26+08:00 ] 127.0.0.1 GET /public/uploads/image/events/1512961382.jpg
+[ info ] fast.local.com/public/uploads/image/events/1512961382.jpg [运行时间：0.029681s][吞吐率：33.69req/s] [内存消耗：1,593.27kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000020s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.005079s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'uploads',
+    2 => 'image',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+  'events' => '1512961382.jpg',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T12:06:26+08:00 ] 127.0.0.1 GET /public/uploads/image/events/1512442388.jpg
+[ info ] fast.local.com/public/uploads/image/events/1512442388.jpg [运行时间：0.036741s][吞吐率：27.22req/s] [内存消耗：1,593.27kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.016583s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'uploads',
+    2 => 'image',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+  'events' => '1512442388.jpg',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T12:06:26+08:00 ] 127.0.0.1 GET /public/uploads/image/events/1512439919.jpg
+[ info ] fast.local.com/public/uploads/image/events/1512439919.jpg [运行时间：0.023647s][吞吐率：42.29req/s] [内存消耗：1,593.27kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000023s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004605s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'uploads',
+    2 => 'image',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+  'events' => '1512439919.jpg',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T12:07:13+08:00 ] 127.0.0.1 GET /
+[ info ] fast.local.com/ [运行时间：0.044058s][吞吐率：22.70req/s] [内存消耗：2,500.01kb] [文件加载：72]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003284s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] E:\web\fastadmin\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000624s ]
+[ info ] [ LANG ] E:\web\fastadmin\public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ E:\web\fastadmin\application\index\controller\Index.php ]
+[ info ] [ VIEW ] E:\web\fastadmin\public/../application/index\view\index\index.html [ array (
+  0 => 'user',
+  1 => 'site',
+  2 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T12:07:13+08:00 ] 127.0.0.1 GET /public/uploads/image/events/1512439919.jpg
+[ info ] fast.local.com/public/uploads/image/events/1512439919.jpg [运行时间：0.032777s][吞吐率：30.51req/s] [内存消耗：1,594.38kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.015697s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'uploads',
+    2 => 'image',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+  'events' => '1512439919.jpg',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T12:07:13+08:00 ] 127.0.0.1 GET /public/uploads/image/events/1515031545.jpg
+[ info ] fast.local.com/public/uploads/image/events/1515031545.jpg [运行时间：0.055453s][吞吐率：18.03req/s] [内存消耗：1,594.38kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000021s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.035575s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'uploads',
+    2 => 'image',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+  'events' => '1515031545.jpg',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T12:07:13+08:00 ] 127.0.0.1 GET /public/uploads/image/events/1512961382.jpg
+[ info ] fast.local.com/public/uploads/image/events/1512961382.jpg [运行时间：0.049239s][吞吐率：20.31req/s] [内存消耗：1,594.38kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000028s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.030826s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'uploads',
+    2 => 'image',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+  'events' => '1512961382.jpg',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T12:07:13+08:00 ] 127.0.0.1 GET /public/uploads/image/events/1514340691.jpg
+[ info ] fast.local.com/public/uploads/image/events/1514340691.jpg [运行时间：0.075557s][吞吐率：13.24req/s] [内存消耗：1,594.38kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.057107s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'uploads',
+    2 => 'image',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+  'events' => '1514340691.jpg',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T12:07:13+08:00 ] 127.0.0.1 GET /public/uploads/image/events/1512442388.jpg
+[ info ] fast.local.com/public/uploads/image/events/1512442388.jpg [运行时间：0.054633s][吞吐率：18.30req/s] [内存消耗：1,594.38kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000033s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.030648s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'uploads',
+    2 => 'image',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+  'events' => '1512442388.jpg',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T12:09:06+08:00 ] 127.0.0.1 GET /
+[ info ] fast.local.com/ [运行时间：0.046940s][吞吐率：21.30req/s] [内存消耗：2,500.01kb] [文件加载：72]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004306s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] E:\web\fastadmin\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000370s ]
+[ info ] [ LANG ] E:\web\fastadmin\public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ E:\web\fastadmin\application\index\controller\Index.php ]
+[ info ] [ VIEW ] E:\web\fastadmin\public/../application/index\view\index\index.html [ array (
+  0 => 'user',
+  1 => 'site',
+  2 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T12:09:07+08:00 ] 127.0.0.1 GET /public/uploads/image/events/1512442388.jpg
+[ info ] fast.local.com/public/uploads/image/events/1512442388.jpg [运行时间：0.037084s][吞吐率：26.97req/s] [内存消耗：1,594.38kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.019512s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'uploads',
+    2 => 'image',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+  'events' => '1512442388.jpg',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T12:09:07+08:00 ] 127.0.0.1 GET /public/uploads/image/events/1512439919.jpg
+[ info ] fast.local.com/public/uploads/image/events/1512439919.jpg [运行时间：0.031044s][吞吐率：32.21req/s] [内存消耗：1,594.38kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000023s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.010838s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'uploads',
+    2 => 'image',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+  'events' => '1512439919.jpg',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T12:09:07+08:00 ] 127.0.0.1 GET /public/uploads/image/events/1514340691.jpg
+[ info ] fast.local.com/public/uploads/image/events/1514340691.jpg [运行时间：0.062781s][吞吐率：15.93req/s] [内存消耗：1,594.38kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.042000s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'uploads',
+    2 => 'image',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+  'events' => '1514340691.jpg',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T12:09:07+08:00 ] 127.0.0.1 GET /public/uploads/image/events/1515031545.jpg
+[ info ] fast.local.com/public/uploads/image/events/1515031545.jpg [运行时间：0.067848s][吞吐率：14.74req/s] [内存消耗：1,594.38kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.045656s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'uploads',
+    2 => 'image',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+  'events' => '1515031545.jpg',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-03-06T12:09:07+08:00 ] 127.0.0.1 GET /public/uploads/image/events/1512961382.jpg
+[ info ] fast.local.com/public/uploads/image/events/1512961382.jpg [运行时间：0.073131s][吞吐率：13.67req/s] [内存消耗：1,594.38kb] [文件加载：55]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000028s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.016602s ]
+[ info ] [ LANG ] E:\web\fastadmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'public',
+    1 => 'uploads',
+    2 => 'image',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'fast.local.com',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://fast.local.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,sv;q=0.7',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1520242415,1520299110; Hm_lpvt_f8d0a8c400404989e195270b0bbf060a=1520308021',
+)
+[ info ] [ PARAM ] array (
+  'events' => '1512961382.jpg',
+)
+[ info ] [ LOG ] INIT File
